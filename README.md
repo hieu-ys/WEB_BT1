@@ -10,9 +10,9 @@
 
 --------------------------------------------------------------------------------------------------------------------------
 
-1. Tạo 4 project bao gồm: dll, console app, windows form, web application sử dụng .NET 2.0 trên visual studio 2022<br>
+1. Tạo 4 project bao gồm: dll, console app, windows form, web application sử dụng .NET 2.0 trên visual studio 2022<br><br><br>
 
-  <img width="403" height="413" alt="image" src="https://github.com/user-attachments/assets/049b6554-9711-4575-aba2-2455cc06a682" /><br>
+  <img width="403" height="413" alt="image" src="https://github.com/user-attachments/assets/049b6554-9711-4575-aba2-2455cc06a682" /><br><br><br>
 
 2. Kết quả chạy:<br>
    
