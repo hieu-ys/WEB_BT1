@@ -1,0 +1,10 @@
+D:\DuaXe\ClassLibrary1\WebApplication1\bin\WebApplication1.dll.config
+D:\DuaXe\ClassLibrary1\WebApplication1\bin\WebApplication1.dll
+D:\DuaXe\ClassLibrary1\WebApplication1\bin\WebApplication1.pdb
+D:\DuaXe\ClassLibrary1\WebApplication1\bin\ClassLibrary1.dll
+D:\DuaXe\ClassLibrary1\WebApplication1\bin\ClassLibrary1.pdb
+D:\DuaXe\ClassLibrary1\WebApplication1\obj\Release\WebApplication1.csproj.AssemblyReference.cache
+D:\DuaXe\ClassLibrary1\WebApplication1\obj\Release\WebApplication1.csproj.CoreCompileInputs.cache
+D:\DuaXe\ClassLibrary1\WebApplication1\obj\Release\WebAppli.7D14BD69.Up2Date
+D:\DuaXe\ClassLibrary1\WebApplication1\obj\Release\WebApplication1.dll
+D:\DuaXe\ClassLibrary1\WebApplication1\obj\Release\WebApplication1.pdb

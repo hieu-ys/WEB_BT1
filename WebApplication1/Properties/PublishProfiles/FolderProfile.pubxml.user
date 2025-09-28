@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\DuaXe\duaxe</_PublishTargetUrl>
+    <History>True|2025-09-28T15:42:54.0481706Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ClassLibrary1.dll">
+      <publishTime>09/28/2025 22:42:53</publishTime>
+    </File>
+    <File Include="bin/ClassLibrary1.pdb">
+      <publishTime>09/28/2025 22:42:53</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>09/28/2025 22:42:53</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.pdb">
+      <publishTime>09/28/2025 22:42:53</publishTime>
+    </File>
+    <File Include="duaxe.aspx">
+      <publishTime>09/28/2025 22:41:18</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>09/28/2025 22:42:53</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/28/2025 22:42:53</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
